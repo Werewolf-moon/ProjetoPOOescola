@@ -65,3 +65,4 @@ print(Jogador.apresentar())
 print(Gameplay.apresentar())
 
 #Exemplo de uso das classes
+#falta melhorias no código para funcionar corretamente
